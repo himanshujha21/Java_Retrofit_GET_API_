@@ -21,6 +21,7 @@ public class RetrofitClientProduct {
         }
         return instance;
     }
+    //
 
     public ProductApi getMyApi() {
         return myApi;
